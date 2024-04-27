@@ -11,7 +11,6 @@
 // ```go
 // var ctx InterContext
 // ctx.Init()
-// ctx.AddLocale()
 // ctx.AddLocale("pt_BR", map[string]string{"hello": "olá"})
 // ```
 //
